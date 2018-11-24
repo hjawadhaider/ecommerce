@@ -2,3 +2,11 @@
 
 2018-11-24T14:49:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs\wp-includes\wp-db.php on line 1924
 
+2018-11-24T14:55:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs\wp-includes\wp-db.php on line 1924
+
+2018-11-24T14:57:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs\wp-includes\wp-db.php on line 1924
+
+2018-11-24T15:00:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs\wp-includes\wp-db.php on line 1924
+
+2018-11-24T15:03:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs\wp-includes\wp-db.php on line 1924
+

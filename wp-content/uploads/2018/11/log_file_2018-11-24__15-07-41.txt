@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:81/wordpress
+Data file = C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs/wp-content/themes/best-commerce/demo/content.xml
+Widget file = C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs/wp-content/themes/best-commerce/demo/widget.wie
+Customizer file = C:\Bitnami\wordpress-4.9.8-2\apps\wordpress\htdocs/wp-content/themes/best-commerce/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Filter Products by Price - No Title - Imported
+Products - Featured Products - Imported
+Products - On-sale Products - Imported
+BC: Advanced Recent Posts - Latest Blog - Imported
+
+Featured Widget Area : 
+
+Image - No Title - Imported
+Image - No Title - Imported
+
+Footer 1 : 
+
+Text - About Us - Imported
+BC: Social - No Title - Imported
+
+Footer 2 : 
+
+Products - Featured Products - Imported
+
+Footer 3 : 
+
+Products - On-sale products - Imported
+
+Footer 4 : 
+
+BC: Advanced Recent Posts - Recent Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

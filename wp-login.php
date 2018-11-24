@@ -7,12 +7,16 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; admin&#039;s Blog! &#8212; WordPress</title>
+	<title>Log In &lsaquo; Shop Lootera &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' href='https://hjawadhaider.github.io/wordpress/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.8' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="https://hjawadhaider.github.io/wordpress/wp-content/uploads/2017/09/cropped-logo-1-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://hjawadhaider.github.io/wordpress/wp-content/uploads/2017/09/cropped-logo-1-270x270.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://hjawadhaider.github.io/wordpress/wp-content/uploads/2017/09/cropped-logo-1-270x270.png" />
+<meta name="msapplication-TileImage" content="https://hjawadhaider.github.io/wordpress/wp-content/uploads/2017/09/cropped-logo-1-270x270.png" />
+	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
@@ -52,7 +56,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://hjawadhaider.github.io/wordpress/">&larr; Back to admin&#039;s Blog!</a></p>
+	<p id="backtoblog"><a href="https://hjawadhaider.github.io/wordpress/">&larr; Back to Shop Lootera</a></p>
 		
 	</div>
 
