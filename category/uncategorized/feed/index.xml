@@ -12,7 +12,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 <channel>
 	<title>Uncategorized &#8211; Shop Lootera</title>
 	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://hjawadhaider.github.io/wordpress</link>
+	<link>https://hjawadhaider.github.io/wordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 24 Nov 2018 13:52:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>http://hjawadhaider.github.io/wordpress/wp-content/uploads/2017/09/cropped-logo-1-100x100.png</url>
+	<url>https://hjawadhaider.github.io/wordpress/wp-content/uploads/2017/09/cropped-logo-1-100x100.png</url>
 	<title>Uncategorized &#8211; Shop Lootera</title>
-	<link>http://hjawadhaider.github.io/wordpress</link>
+	<link>https://hjawadhaider.github.io/wordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>http://hjawadhaider.github.io/wordpress/2018/11/23/hello-world/</link>
-		<comments>http://hjawadhaider.github.io/wordpress/2018/11/23/hello-world/#comments</comments>
+		<link>https://hjawadhaider.github.io/wordpress/2018/11/23/hello-world/</link>
+		<comments>https://hjawadhaider.github.io/wordpress/2018/11/23/hello-world/#comments</comments>
 		<pubDate>Fri, 23 Nov 2018 18:20:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -39,7 +39,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://hjawadhaider.github.io/wordpress/2018/11/23/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://hjawadhaider.github.io/wordpress/2018/11/23/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
