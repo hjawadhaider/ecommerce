@@ -10,7 +10,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 <channel>
 	<title>Comments on: Winter Overcoat</title>
 	<atom:link href="http://localhost/wordpress/product/winter-overcoat/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hjawadhaider.github.io/wordpress/product/winter-overcoat/</link>
+	<link>/https://hjawadhaider.github.io/wordpress/product/winter-overcoat/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 23 Nov 2018 18:20:51 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
